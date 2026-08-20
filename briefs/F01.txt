@@ -1,0 +1,15 @@
+Senior Backend Engineer — Payments Platform
+
+We are looking for a Senior Backend Engineer to join our payments platform team in Bengaluru. You will own services handling high transaction volumes and work closely with product and infrastructure.
+
+Requirements:
+• 6–10 years of backend engineering experience
+• Strong Java or Kotlin
+• Production experience with Kafka and distributed systems
+• Experience with PostgreSQL at scale
+
+Nice to have:
+• Exposure to fintech or payments domain
+• Kubernetes
+
+This is a hybrid role, 3 days a week in office.
