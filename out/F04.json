@@ -1,0 +1,32 @@
+{
+  "role_title": null,
+  "role_family": "backend",
+  "seniority": null,
+  "experience": {
+    "min_years": 7,
+    "max_years": null
+  },
+  "must_have_skills": [],
+  "preferred_skills": [
+    "Go",
+    "Java"
+  ],
+  "location": {
+    "cities": [
+      "Bangalore"
+    ],
+    "work_mode": "remote"
+  },
+  "domain": null,
+  "compensation": {
+    "min_lpa": null,
+    "max_lpa": null,
+    "currency": "INR"
+  },
+  "headcount": null,
+  "exclusions": [],
+  "confidence": {
+    "experience": "explicit",
+    "location": "inferred"
+  }
+}

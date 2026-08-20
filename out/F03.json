@@ -1,0 +1,26 @@
+{
+  "role_title": null,
+  "role_family": "backend",
+  "seniority": null,
+  "experience": {
+    "min_years": null,
+    "max_years": null
+  },
+  "must_have_skills": [],
+  "preferred_skills": [],
+  "location": {
+    "cities": [],
+    "work_mode": null
+  },
+  "domain": null,
+  "compensation": {
+    "min_lpa": null,
+    "max_lpa": null,
+    "currency": "INR"
+  },
+  "headcount": null,
+  "exclusions": [],
+  "confidence": {
+    "role_family": "inferred"
+  }
+}

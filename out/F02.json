@@ -1,0 +1,35 @@
+{
+  "role_title": null,
+  "role_family": "backend",
+  "seniority": "senior",
+  "experience": {
+    "min_years": 5,
+    "max_years": 8
+  },
+  "must_have_skills": [
+    "Kafka",
+    "Java"
+  ],
+  "preferred_skills": [],
+  "location": {
+    "cities": [
+      "Bangalore"
+    ],
+    "work_mode": null
+  },
+  "domain": null,
+  "compensation": {
+    "min_lpa": 45.0,
+    "max_lpa": 55.0,
+    "currency": "INR"
+  },
+  "headcount": 3,
+  "exclusions": [
+    "service company profiles"
+  ],
+  "confidence": {
+    "experience": "explicit",
+    "compensation": "explicit",
+    "headcount": "explicit"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "role_title": "Backend Engineer",
+  "role_family": "backend",
+  "seniority": null,
+  "experience": {
+    "min_years": 4,
+    "max_years": 6
+  },
+  "must_have_skills": [
+    "Python"
+  ],
+  "preferred_skills": [
+    "Django"
+  ],
+  "location": {
+    "cities": [
+      "Pune"
+    ],
+    "work_mode": "onsite"
+  },
+  "domain": null,
+  "compensation": {
+    "min_lpa": null,
+    "max_lpa": 30.0,
+    "currency": "INR"
+  },
+  "headcount": null,
+  "exclusions": [
+    "remote"
+  ],
+  "confidence": {
+    "location": "explicit",
+    "compensation": "explicit"
+  }
+}
