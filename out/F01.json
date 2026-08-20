@@ -10,10 +10,12 @@
     "Java",
     "Kotlin",
     "Kafka",
+    "distributed systems",
     "PostgreSQL"
   ],
   "preferred_skills": [
     "fintech",
+    "payments",
     "Kubernetes"
   ],
   "location": {
@@ -22,7 +24,7 @@
     ],
     "work_mode": "hybrid"
   },
-  "domain": "payments",
+  "domain": "Payments",
   "compensation": {
     "min_lpa": null,
     "max_lpa": null,
@@ -32,7 +34,12 @@
   "exclusions": [],
   "confidence": {
     "role_title": "explicit",
+    "role_family": "explicit",
     "seniority": "explicit",
-    "location": "explicit"
+    "experience": "explicit",
+    "must_have_skills": "explicit",
+    "preferred_skills": "explicit",
+    "location": "explicit",
+    "domain": "explicit"
   }
 }

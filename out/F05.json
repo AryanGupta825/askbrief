@@ -1,7 +1,7 @@
 {
   "role_title": "Backend Engineer",
   "role_family": "backend",
-  "seniority": null,
+  "seniority": "mid",
   "experience": {
     "min_years": 4,
     "max_years": 6
@@ -24,12 +24,20 @@
     "max_lpa": 30.0,
     "currency": "INR"
   },
-  "headcount": null,
+  "headcount": 1,
   "exclusions": [
     "remote"
   ],
   "confidence": {
+    "role_title": "explicit",
+    "role_family": "explicit",
+    "seniority": "inferred",
+    "experience": "explicit",
+    "must_have_skills": "explicit",
+    "preferred_skills": "explicit",
     "location": "explicit",
-    "compensation": "explicit"
+    "compensation": "explicit",
+    "headcount": "explicit",
+    "exclusions": "explicit"
   }
 }

@@ -1,7 +1,7 @@
 {
-  "role_title": null,
+  "role_title": "Backend Developer",
   "role_family": "backend",
-  "seniority": null,
+  "seniority": "senior",
   "experience": {
     "min_years": 7,
     "max_years": null
@@ -26,7 +26,11 @@
   "headcount": null,
   "exclusions": [],
   "confidence": {
+    "role_title": "inferred",
+    "role_family": "explicit",
+    "seniority": "inferred",
     "experience": "explicit",
+    "preferred_skills": "explicit",
     "location": "inferred"
   }
 }

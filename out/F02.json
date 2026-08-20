@@ -1,5 +1,5 @@
 {
-  "role_title": null,
+  "role_title": "Backend Engineer",
   "role_family": "backend",
   "seniority": "senior",
   "experience": {
@@ -28,8 +28,14 @@
     "service company profiles"
   ],
   "confidence": {
+    "role_title": "inferred",
+    "role_family": "explicit",
+    "seniority": "explicit",
     "experience": "explicit",
+    "must_have_skills": "explicit",
+    "location": "explicit",
     "compensation": "explicit",
-    "headcount": "explicit"
+    "headcount": "explicit",
+    "exclusions": "explicit"
   }
 }

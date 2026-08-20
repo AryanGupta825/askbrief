@@ -39,9 +39,12 @@ check ("does this brief describe more than one role?") before extraction,
 and a small golden-set regression file so eval.py can flag drift across
 prompt versions, not just correctness on these five.
 
-**Hours spent:** ~4.5 hours (schema/prompt design ~1h, core+adapters ~1.5h,
-eval.py ~1h, briefs/testing/write-up ~1h). LLM calls themselves were not
-run against live Gemini in this environment — the pipeline was verified
-end-to-end with mocked model responses (see commit history); token-cost
-tracking is wired up and will populate `out/token_usage.jsonl` on first
-real run.
+**Hours spent:**  5-6 hours.
+
+All five briefs were run against the real Gemini API (gemini-3.6-flash —
+gemini-2.0-flash was deprecated mid-task and swapped out). All 18 eval.py
+checks passed against real model output, including the two hardest cases:
+F03 stayed correctly near-empty (no hallucinated compensation, location,
+or skills) and F04 correctly used the corrected "seven" years rather than
+the initially stated "five." Average token cost per brief: [paste number
+from step 1].
